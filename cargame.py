@@ -1,6 +1,6 @@
 import pygame
 import random
-from sys import exit as sys_exit
+from sys import exit
 
 # TODO: Add sound effect, trees graphics
 # TODO: Make the movement of the dashed line smoothly transition when level up
